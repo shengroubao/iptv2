@@ -6,10 +6,6 @@
 五星体育8M,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 劲爆体育8M,http://[2409:8c3c:1300:806:74::b]/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8?blog.ntnas.top
 劲爆体育8M,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
-纬来体育HD,rtmp://119.81.124.89/sat/tv721
-ELEVEN体育1,rtmp://119.81.124.89/sat/tv731
-ELEVEN体育2,rtmp://119.81.124.89/sat/tv741
-爱达体育台,rtmp://119.81.124.89/sat/md031.flv
 广东香港,#genre#
 广东卫视高清,http://fyld.eatuo.com:9901/tsfile/live/1008_1.m3u8
 广东珠江高清,http://fyld.eatuo.com:9901/tsfile/live/1009_1.m3u8
