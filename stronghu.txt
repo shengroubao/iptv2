@@ -120,13 +120,9 @@ CHC家庭影院,https://live.v1.mk/aishang/chcjtyy
 新动漫,https://live.v1.mk/aishang/xdm
 CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
-中国台湾,#genre#
+中国台湾测试,#genre#
 寰宇新闻台,http://2023.stream-link.org/playlist/global_tw
 HITS频道,http://www.336699.live:1935/blocksix/4gtv-live620.stream/chunklist.m3u8
-民视新闻台,https://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
-台湾戏剧,http://www.336699.live:1935/blocksix/4gtv-live005.stream/chunklist.m3u8
-台湾综艺,http://www.336699.live:1935/blocksix/4gtv-live006.stream/chunklist.m3u8
-大爱,http://www.336699.live:1935/blocksix/4gtv-live007.stream/chunklist.m3u8
 人间卫视,http://www.336699.live:1935/blocksix/4gtv-live008.stream/chunklist.m3u8
 ROLLOR,http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
 东森财经新闻,http://www.336699.live:1935/blocksix/4gtv-live019.stream/chunklist.m3u8
@@ -210,6 +206,29 @@ arir,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
 mezzo,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
 TRACE,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 智林体育台,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
+中视,rtmp://219.80.97.77/sat/tv091  
+华视,rtmp://219.80.97.77/sat/tv112  
+台视,rtmp://219.80.97.77/sat/tv071  
+民视,rtmp://219.80.97.77/sat/tv052  
+TVBS·欢乐台,rtmp://219.80.97.77/sat/tv422  
+TVBS·新闻台,rtmp://219.80.97.77/sat/tv552  
+纬来体育,rtmp://219.80.97.77/sat/tv721  
+纬来育乐,rtmp://219.80.97.77/sat/tv701  
+纬来日本,rtmp://219.80.97.77/sat/tv521  
+东森超视,rtmp://219.80.97.77/sat/tv772  
+博斯魅力,rtmp://219.80.97.77/sat/md042  
+东森财经新闻,rtmp://219.80.97.77/sat/tv571  
+MoMo综合,rtmp://219.80.97.77/sat/tv761  
+FOX体育,rtmp://219.80.97.77/sat/tv731  
+博斯運動 II,rtmp://219.80.97.77/sat/md051  
+有线18台,rtmp://219.80.97.77/sat/hk042  
+有线 SPORTS 1,rtmp://219.80.97.77/sat/hk011
+ELEVEN1体育,rtmp://219.80.97.77/sat/tv731   
+ELEVEN2体育,rtmp://219.80.97.77/sat/tv741   
+东森超视,rtmp://219.80.97.77/sat/tv771   
+博斯网球,rtmp://219.80.97.77/sat/md021   
+博斯魅力,rtmp://219.80.97.77/sat/md031   
+爱尔达奥运Ⅰ,rtmp://219.80.97.77/sat/md041
 🐳douyu轮播,#genre#
 【RM-点播】点播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/131977
 【RM-轮播】轮播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/7298973
