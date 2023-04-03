@@ -1,10 +1,14 @@
 体育赛事,#genre#
+CCTV-5 体育,https://live.v1.mk/api/sxg.php?id=CCTV-5H265_4000
+CCTV-5+ 体育赛事,https://live.v1.mk/api/sxg.php?id=CCTV-5plusH265_4000
 广东体育高清,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
 新视觉8M,http://[2409:8c3c:1300:806:74::b]/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
 五星体育8M,http://[2409:8c3c:1300:806:74::b]/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 劲爆体育8M,http://[2409:8c3c:1300:806:74::b]/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 测试,#genre#
+凤凰资讯,https://live.v1.mk/api/sxg.php?id=test2_4000
 凤凰资讯,http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+凤凰中文,https://live.v1.mk/api/sxg.php?id=test1_4000
 凤凰中文,http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 NBC News Now HD,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
