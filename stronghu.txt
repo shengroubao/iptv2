@@ -3,12 +3,10 @@ CCTV-5 体育,https://live.v1.mk/api/sxg.php?id=CCTV-5H265_4000
 CCTV-5+ 体育赛事,https://live.v1.mk/api/sxg.php?id=CCTV-5plusH265_4000
 劲爆体育,https://live.v1.mk/api/sxg.php?id=lqhxjcHDH265_4000
 纬来体育HD,rtmp://119.81.124.89/sat/tv721
-緯來體育HD2,http://123.51.230.108:18509/.m3u8
 ELEVEN体育1,rtmp://119.81.124.89/sat/tv731
 ELEVEN体育2,rtmp://119.81.124.89/sat/tv741
 爱达体育台,rtmp://119.81.124.89/sat/md031.flv
 测试,#genre#
-翡翠台,http://r.jdshipin.com/62WM7
 凤凰资讯,https://live.v1.mk/api/sxg.php?id=test2_4000
 凤凰资讯,http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 凤凰资讯,rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
