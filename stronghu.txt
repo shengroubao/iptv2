@@ -8,6 +8,7 @@ ELEVEN体育1,rtmp://119.81.124.89/sat/tv731
 ELEVEN体育2,rtmp://119.81.124.89/sat/tv741
 爱达体育台,rtmp://119.81.124.89/sat/md031.flv
 测试,#genre#
+翡翠台HD,http://23.237.10.66:16410
 凤凰资讯,https://live.v1.mk/api/sxg.php?id=test2_4000
 凤凰资讯,http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 凤凰资讯,rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
