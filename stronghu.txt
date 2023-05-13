@@ -12,7 +12,7 @@ CCTV-5+高清,rtp://239.77.1.147:5146
 ELEVEN体育1,rtmp://119.81.124.89/sat/tv731
 ELEVEN体育2,rtmp://119.81.124.89/sat/tv741
 爱达体育台,rtmp://119.81.124.89/sat/md031.flv
-咪咕直播,#genre#
+咪咕直播(IPV6),#genre#
 咪咕直播-1,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
 咪咕直播-2,http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225613/index.m3u8
 咪咕直播-3,http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225617/index.m3u8
@@ -81,7 +81,7 @@ ELEVEN体育2,rtmp://119.81.124.89/sat/tv741
 嘉佳卡通,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1459_4500
 岭南戏曲,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1460_4500
 广东新闻,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=gdnews_1500
-广东IPTV,#genre#
+广东电信IPTV,#genre#
 广东卫视,rtp://239.77.0.2:5146
 广东卫视,rtp://239.77.1.2:5146
 广东卫视高清,rtp://239.77.1.19:5146
@@ -661,7 +661,6 @@ Unknown@239.253.43.106:5146,rtp://239.253.43.106:5146
 （信号传输故障）,rtp://239.253.43.38:5146
 （信号传输故障）,rtp://239.77.1.155:5146
 （信号传输故障）高清,rtp://239.77.1.110:5146
-
 港台测试,#genre#
 翡翠台HD,http://23.237.10.66:16410
 凤凰资讯,https://live.goodiptv.club/api/sxg.php?id=test2_4000
