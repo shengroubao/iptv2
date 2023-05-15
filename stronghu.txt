@@ -7,13 +7,13 @@ CCTV-5+高清,rtp://239.77.1.31:5146
 CCTV-5+高清,rtp://239.77.1.147:5146
 劲爆体育,https://live.goodiptv.club/api/sxg.php?id=lqhxjcHDH265_4000
 新视觉高清,https://live.goodiptv.club/api/sxg.php?id=ycxsjH265_4000
-纬来体育HD,rtmp://119.81.124.89/sat/tv721
-纬来体育HD,rtmp://219.80.97.77/sat/tv721
+纬来体育1HD,rtmp://119.81.124.89/sat/tv721
+纬来体育2HD,rtmp://219.80.97.77/sat/tv721
 緯來體育HD2,http://123.51.230.108:18509/.m3u8
 ELEVEN体育1,rtmp://119.81.124.89/sat/tv731
 ELEVEN体育2,rtmp://119.81.124.89/sat/tv741
-爱达体育台,rtmp://119.81.124.89/sat/md051
-爱达体育台,rtmp://219.80.97.77/sat/md051
+爱达体育台1,rtmp://119.81.124.89/sat/md051
+爱达体育台2,rtmp://219.80.97.77/sat/md051
 咪咕直播(IPV6),#genre#
 咪咕直播-1,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
 咪咕直播-2,http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225613/index.m3u8
