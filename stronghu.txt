@@ -122,21 +122,6 @@ ELEVEN体育2,rtmp://119.81.124.89/sat/tv741
 咪咕直播-53,http://gslbserv.itv.cmvideo.cn:80/3000000010000032106/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000032106&livemode=1&stbId=3
 咪咕直播-1-4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 咪咕直播-2-4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-广东测试,#genre#
-广东卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1401
-广东新闻,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1454_4500
-广东民生,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1455_4500#http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1455
-大湾区卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1456_4500#http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1456
-广东少儿,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1457_4500#http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1457
-广东影视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1458_4500#http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1458
-广东体育HD,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1413_4500
-广东综艺4K,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=GDZYHD4K_38000
-广东珠江,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=gdzhujiangHD_7500
-广东体育,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1413
-广东经济科教,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=GDjingjikejiaoHD_7000
-嘉佳卡通,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1459_4500
-岭南戏曲,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1460_4500
-广东新闻,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=gdnews_1500
 广东电信IPTV,#genre#
 广东卫视,rtp://239.77.0.2:5146
 广东卫视,rtp://239.77.1.2:5146
@@ -717,7 +702,7 @@ Unknown@239.253.43.106:5146,rtp://239.253.43.106:5146
 （信号传输故障）,rtp://239.253.43.38:5146
 （信号传输故障）,rtp://239.77.1.155:5146
 （信号传输故障）高清,rtp://239.77.1.110:5146
-港台测试,#genre#
+港台测试1,#genre#
 翡翠台HD,http://23.237.10.66:16410
 凤凰资讯,https://live.goodiptv.club/api/sxg.php?id=test2_4000
 凤凰资讯,http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhzixun/index.m3u8
@@ -749,7 +734,58 @@ TVB J5,http://162.19.247.76:22222/live/tvbj5/index.m3u8
 东森洋片台,http://162.19.247.76:22222/live/dsypt/index.m3u8
 AOD,http://162.19.247.76:22222/live/uch7/index.m3u8
 华视,http://162.19.247.76:22222/live/huashi/index.m3u8
-央视卫视,#genre#
+港台测试2,#genre#
+鳳凰衛視資訊台,http://awei.beimua.com/yes.php?id=2
+鳳凰衛視中文台,http://awei.beimua.com/yes.php?id=11
+無綫財經·體育·資訊台,http://awei.beimua.com/yes.php?id=12
+無綫新聞台,http://awei.beimua.com/yes.php?id=13
+ViuTV,http://awei.beimua.com/yes.php?id=15
+TVB翡翠台,http://awei.beimua.com/yes.php?id=16
+TVB明珠台,http://awei.beimua.com/yes.php?id=17
+J2台,http://awei.beimua.com/yes.php?id=18
+東森新聞台,http://awei.beimua.com/yes.php?id=1
+TVB新闻台,http://awei.beimua.com/yes.php?id=3
+TVBS,http://awei.beimua.com/yes.php?id=4
+愛爾達體育1台,http://awei.beimua.com/yes.php?id=5
+愛爾達體育3台,http://awei.beimua.com/yes.php?id=7
+緯來體育台,http://awei.beimua.com/yes.php?id=8
+ELEVEN體育1台,http://awei.beimua.com/yes.php?id=9
+ELEVEN體育2台,http://awei.beimua.com/yes.php?id=10
+博斯魅力,http://awei.beimua.com/yes.php?id=21
+卫视中文台,http://awei.beimua.com/yes.php?id=20
+凤凰卫视中文,http://awei.beimua.com/iptv.php?id=1
+凤凰卫视资讯,http://awei.beimua.com/iptv.php?id=2
+中天新闻台,http://awei.beimua.com/iptv.php?id=43
+东森新闻台,http://awei.beimua.com/iptv.php?id=44
+中视新闻台,http://awei.beimua.com/iptv.php?id=46
+台视新闻台,http://awei.beimua.com/iptv.php?id=47
+三立新闻台,http://awei.beimua.com/iptv.php?id=48
+民视新闻台,http://awei.beimua.com/iptv.php?id=50
+华视新闻台,http://awei.beimua.com/iptv.php?id=51
+镜电视新闻台,http://awei.beimua.com/iptv.php?id=52
+寰宇新闻台,http://awei.beimua.com/iptv.php?id=53
+TVBS新闻台,http://awei.beimua.com/iptv.php?id=54
+中视HD,http://awei.beimua.com/iptv.php?id=60
+台视HD,http://awei.beimua.com/iptv.php?id=61
+民视HD,http://awei.beimua.com/iptv.php?id=62
+华视HD,http://awei.beimua.com/iptv.php?id=63
+纬来体育台,http://awei.beimua.com/iptv.php?id=73
+纬来日本台,http://awei.beimua.com/iptv.php?id=74
+纬来育乐台,http://awei.beimua.com/iptv.php?id=75
+ELEVEN 1,http://awei.beimua.com/iptv.php?id=76
+ELEVEN 2,http://awei.beimua.com/iptv.php?id=77
+爱尔达体育1台,http://awei.beimua.com/iptv.php?id=79
+爱尔达体育2台,http://awei.beimua.com/iptv.php?id=80
+爱尔达体育3台,http://awei.beimua.com/iptv.php?id=81
+1905电影,http://awei.beimua.com/1905.php
+凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+鳳凰中文,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+abc NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+CBN NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+euro NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
+NBC NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+爱尚央视卫视备用,#genre#
 CCTV1,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV2,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV3,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240245_1/playlist.m3u8?CONTENTID=00000110240245_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -809,21 +845,6 @@ GTV网络棋牌,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240319_1/pl
 天津卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240136_1/playlist.m3u8?CONTENTID=00000110240136_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 浙江卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240134_1/playlist.m3u8?CONTENTID=00000110240134_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 重庆卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240397_1/playlist.m3u8?CONTENTID=00000110240397_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-四川卫视,http://117.184.239.13/liveplay-kk.rtxapp.com/live/program/live/scwshd/8000000/mnf.m3u8
-河南卫视,http://117.184.239.13/liveplay-kk.rtxapp.com/live/program/live/hnwshd8m/8000000/mnf.m3u8
-吉林卫视,http://117.184.239.13/liveplay-kk.rtxapp.com/live/program/live/jlwshd8m/8000000/mnf.m3u8
-云南卫视,http://117.184.239.13/liveplay-kk.rtxapp.com/live/program/live/ynwshd8m/8000000/mnf.m3u8
-广西卫视,http://117.184.239.13/liveplay-kk.rtxapp.com/live/program/live/gxwshd8m/8000000/mnf.m3u8
-江西卫视,http://117.184.239.13/liveplay-kk.rtxapp.com/live/program/live/jxws8m/8000000/mnf.m3u8
-青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8
-西藏卫视,https://tv.vtibet.cn/live/EfgSmE4jCTBtvchannel3.m3u8
-甘肃卫视,http://117.184.239.13/liveplay-kk.rtxapp.com/live/program/live/gswshd8m/8000000/mnf.m3u8
-三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
-海峡卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-兵团卫视,http://test5.btzx.com.cn/live/bt011ws.stream/playlist.m3u8
-厦门卫视,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001016000000113818/main.m3u8?IASHttpSessionId=OTT
-CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
-CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 🐳douyu轮播,#genre#
 【RM-点播】点播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/131977
 【RM-轮播】轮播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/7298973
