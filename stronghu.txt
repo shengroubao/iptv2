@@ -10,6 +10,7 @@ ELEVEN2,rtmp://9sv2.mine.nu/sat/tv741
 劲爆体育,https://live.goodiptv.club/api/sxg.php?id=lqhxjcHDH265_4000
 新视觉高清,https://live.goodiptv.club/api/sxg.php?id=ycxsjH265_4000
 广东电信IPTV,#genre#
+凤凰资讯,https://www.youtube.com/watch?v=bYBjjtgKUnM
 广东卫视,http://192.168.100.1:5678/udp/239.77.0.2:5146
 广东卫视,http://192.168.100.1:5678/udp/239.77.1.2:5146
 广东卫视高清,http://192.168.100.1:5678/udp/239.77.1.19:5146
