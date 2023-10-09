@@ -1,6 +1,12 @@
 体育赛事,#genre#
 CCTV-5高清,http://192.168.100.1:5678/udp/239.77.0.170:5146
 CCTV-5+高清,http://192.168.100.1:5678/udp/239.77.0.87:5146
+緯來體育,rtmp://9sv2.mine.nu/sat/tv721
+ELEVEN1,rtmp://9sv2.mine.nu/sat/tv731
+ELEVEN2,rtmp://9sv2.mine.nu/sat/tv741
+爱尔达博斯md31,rtmp://9sv2.mine.nu/sat/md031
+爱尔达博斯md41,rtmp://9sv2.mine.nu/sat/md041
+爱尔达博斯md51,rtmp://9sv2.mine.nu/sat/md051
 劲爆体育,https://live.goodiptv.club/api/sxg.php?id=lqhxjcHDH265_4000
 新视觉高清,https://live.goodiptv.club/api/sxg.php?id=ycxsjH265_4000
 广东电信IPTV,#genre#
