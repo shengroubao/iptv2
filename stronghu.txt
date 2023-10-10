@@ -1,5 +1,6 @@
 体育赛事,#genre#
-CCTV-5高清,https://cntv.sbs/tv?auth=231005&id=cctv5
+CCTV-5高清1,http://192.168.100.1:5678/udp/239.77.0.170:5146
+CCTV-5高清2,https://cntv.sbs/tv?auth=231005&id=cctv5
 CCTV-5+高清,http://192.168.100.1:5678/udp/239.77.0.87:5146
 五星体育,https://cntv.sbs/tv?auth=231005&id=wxty
 劲爆体育,https://cntv.sbs/tv?auth=231005&id=jbty
