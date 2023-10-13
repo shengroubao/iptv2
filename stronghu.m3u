@@ -12,17 +12,17 @@ https://cntv.sbs/tv?auth=231005&id=jbty
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="体育频道",新视觉
 https://cntv.sbs/tv?auth=231005&id=xsj
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="体育频道",纬来体育
-rtmp://9sv2.mine.nu/sat/tv721
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-2ca05717-2ed4-4953-a67b-94607ef99071/index.m3u8?by=yeslivetv.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",ELEVEN1
-rtmp://9sv2.mine.nu/sat/tv731
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-7373892e-be17-4a63-8765-2e917948279c/index.m3u8?by=yeslivetv.com
 #EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="体育频道",ELEVEN2
-rtmp://9sv2.mine.nu/sat/tv741
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",爱尔达博斯md31
-rtmp://9sv2.mine.nu/sat/md031
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",爱尔达博斯md41
-rtmp://9sv2.mine.nu/sat/md041
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",爱尔达博斯md51
-rtmp://9sv2.mine.nu/sat/md051
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-44bd4ff2-4410-412c-9109-a83c2e645632/index.m3u8?by=yeslivetv.com
+#EXTINF:-1 tvg-id="7212" tvg-name="爱尔达体育1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" group-title="体育频道",爱尔达体育1
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-43640206-7e56-47dd-91ee-ec48c6482424/index.m3u8?by=yeslivetv.com
+#EXTINF:-1 tvg-id="7192" tvg-name="爱尔达体育2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png" group-title="体育频道",爱尔达体育2
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-8fbfcbf2-c671-4f3c-8080-ea7a29211b3c/index.m3u8?by=yeslivetv.com
+#EXTINF:-1 tvg-id="7213" tvg-name="爱尔达体育3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports3.png" group-title="体育频道",爱尔达体育3
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-52e76209-f3d6-41fb-8623-efec93886f42/index.m3u8?by=yeslivetv.com
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台",凤凰卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台",凤凰资讯
