@@ -15,8 +15,8 @@ ELEVEN2,https://pull-f5-spe.ixigua.com/live/YesLiveTV-44bd4ff2-4410-412c-9109-a8
 凤凰卫视,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-翡翠台,https://pi.0472.org/tv/fct.php?auth=231005
-明珠台,https://pi.0472.org/tv/mzt.php?auth=231005
+翡翠台,https://pi.0472.org/tv/fct.php?auth=231013
+明珠台,https://pi.0472.org/tv/mzt.php?auth=231013
 广东卫视,http://192.168.100.1:5678/udp/239.77.0.2:5146
 广东卫视,http://192.168.100.1:5678/udp/239.77.1.2:5146
 广东卫视高清,http://192.168.100.1:5678/udp/239.77.1.19:5146
