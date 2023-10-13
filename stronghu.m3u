@@ -8,9 +8,9 @@ http://192.168.100.1:5678/udp/239.77.0.87:5146
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育频道",五星体育
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="体育频道",劲爆体育
-https://cntv.sbs/tv?auth=231005&id=jbty
+https://cntv.sbs/tv?auth=231013&id=jbty
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="体育频道",新视觉
-https://cntv.sbs/tv?auth=231005&id=xsj
+https://cntv.sbs/tv?auth=231013&id=xsj
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="体育频道",纬来体育
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-2ca05717-2ed4-4953-a67b-94607ef99071/index.m3u8?by=yeslivetv.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",ELEVEN1
