@@ -17,6 +17,14 @@ ELEVEN2,https://pull-f5-spe.ixigua.com/live/YesLiveTV-44bd4ff2-4410-412c-9109-a8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 翡翠台,https://pi.0472.org/tv/fct.php?auth=231013
 明珠台,https://pi.0472.org/tv/mzt.php?auth=231013
+viutv,https://pull-f5-spe.ixigua.com/live/YesLiveTV-93d53b1a-bb73-4ea0-be17-5c76f5b81e85/index.m3u8?by=yeslivetv.com
+J2,https://pull-f5-spe.ixigua.com/live/YesLiveTV-36c64758-27cf-489d-827e-058cedfd14f2/index.m3u8?by=yeslivetv.com
+ABC News,https://www.youtube.com/watch?v=OOtxXPaQvoM
+CBS News,https://www.youtube.com/watch?v=SiHLcSW07Dk
+CNA,https://www.youtube.com/watch?v=XWq5kBlakcQ
+CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
+Euronews,https://www.youtube.com/watch?v=pykpO5kQJ98
+NEWSMAX LIVE,https://www.youtube.com/watch?v=ebF8dngcDQI
 广东卫视,http://192.168.100.1:5678/udp/239.77.0.2:5146
 广东卫视,http://192.168.100.1:5678/udp/239.77.1.2:5146
 广东卫视高清,http://192.168.100.1:5678/udp/239.77.1.19:5146
