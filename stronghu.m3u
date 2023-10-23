@@ -12,13 +12,9 @@ https://live.goodiptv.club/api/sxg.php?id=lqhxjcHDH265_4000
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉2" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="体育频道",新视觉
 https://live.goodiptv.club/api/sxg.php?id=ycxsjH265_4000
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="体育频道",纬来体育
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-2aa38a71-bf06-423e-8462-68f6710a31c6/index.m3u8?by=yeslivetv.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",ELEVEN1
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-81446de7-1ede-4d4a-ae26-a65627efa874/index.m3u8?by=yeslivetv.com
-#EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="体育频道",ELEVEN2
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-44bd4ff2-4410-412c-9109-a83c2e645632/index.m3u8?by=yeslivetv.com
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-5e7082d0-ad54-41a9-b8dc-4fadee445800/index.m3u8?by=yeslivetv.com
 #EXTINF:-1 tvg-id="7212" tvg-name="爱尔达体育1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" group-title="体育频道",爱尔达体育1
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-02a039f4-6b42-46d1-8fd9-52a37eed01d7/index.m3u8?by=yeslivetv.com
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-05f93929-86f2-46a2-ab55-7ebebce339c4/index.m3u8?by=yeslivetv.com
 #EXTINF:-1 tvg-id="7192" tvg-name="爱尔达体育2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png" group-title="体育频道",爱尔达体育2
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-8fbfcbf2-c671-4f3c-8080-ea7a29211b3c/index.m3u8?by=yeslivetv.com
 #EXTINF:-1 tvg-id="7213" tvg-name="爱尔达体育3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports3.png" group-title="体育频道",爱尔达体育3
