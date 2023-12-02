@@ -5,43 +5,123 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 referer=https://m.gdtv.cn
 #EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="广东地方",广东珠江
 https://m.gdtv.cn/tvChannelDetail/44
+parse=1
+player=2
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+referer=https://m.gdtv.cn
 #EXTINF:-1 tvg-id="6016" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="广东地方",广东新闻
 https://m.gdtv.cn/tvChannelDetail/45
+parse=1
+player=2
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+referer=https://m.gdtv.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东地方",广东民生
 https://m.gdtv.cn/tvChannelDetail/48
+parse=1
+player=2
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+referer=https://m.gdtv.cn
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="广东地方",广东体育
 https://m.gdtv.cn/tvChannelDetail/47
+parse=1
+player=2
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+referer=https://m.gdtv.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东地方",大湾区卫视
 https://m.gdtv.cn/tvChannelDetail/51
+parse=1
+player=2
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+referer=https://m.gdtv.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东地方",大湾区卫视海外
 https://m.gdtv.cn/tvChannelDetail/46
+parse=1
+player=2
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+referer=https://m.gdtv.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东地方",经济科教
 https://m.gdtv.cn/tvChannelDetail/49
+parse=1
+player=2
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+referer=https://m.gdtv.cn
 #EXTINF:-1 tvg-id="7250" tvg-name="广东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVMOV.png" group-title="广东地方",广东影视
 https://m.gdtv.cn/tvChannelDetail/53
+parse=1
+player=2
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+referer=https://m.gdtv.cn
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="广东地方",4K超高清
 https://m.gdtv.cn/tvChannelDetail/16
+parse=1
+player=2
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+referer=https://m.gdtv.cn
 #EXTINF:-1 tvg-id="7253" tvg-name="广东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png" group-title="广东地方",广东少儿
 https://m.gdtv.cn/tvChannelDetail/54
+parse=1
+player=2
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+referer=https://m.gdtv.cn
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="广东地方",嘉佳卡通
 https://m.gdtv.cn/tvChannelDetail/66
+parse=1
+player=2
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+referer=https://m.gdtv.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东地方",南方购物
 https://m.gdtv.cn/tvChannelDetail/42
+parse=1
+player=2
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+referer=https://m.gdtv.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东地方",岭南戏曲
 https://m.gdtv.cn/tvChannelDetail/15
+parse=1
+player=2
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+referer=https://m.gdtv.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东地方",现代教育
 https://m.gdtv.cn/tvChannelDetail/13
+parse=1
+player=2
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+referer=https://m.gdtv.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东地方",广东移动
 https://m.gdtv.cn/tvChannelDetail/74
+parse=1
+player=2
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+referer=https://m.gdtv.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东地方",荔枝台
 https://m.gdtv.cn/tvChannelDetail/100
+parse=1
+player=2
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+referer=https://m.gdtv.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东地方",纪录片
 https://m.gdtv.cn/tvChannelDetail/94
+parse=1
+player=2
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+referer=https://m.gdtv.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东地方",GRTN健康频道
 https://m.gdtv.cn/tvChannelDetail/99
+parse=1
+player=2
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+referer=https://m.gdtv.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东地方",GRTN文化频道
 https://m.gdtv.cn/tvChannelDetail/75
+parse=1
+player=2
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+referer=https://m.gdtv.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东地方",GRTN生活频道
 https://m.gdtv.cn/tvChannelDetail/102
+parse=1
+player=2
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+referer=https://m.gdtv.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东地方",GRTN教育频道
 https://m.gdtv.cn/tvChannelDetail/104
