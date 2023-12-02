@@ -381,17 +381,17 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000100630/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000090630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="iHOT爱动漫" tvg-name="iHOT爱动漫" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱动漫.png" group-title="影院系列",iHOT爱动漫
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="广东广东地方",广东珠江
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="广东地方",广东珠江
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
-#EXTINF:-1 tvg-id="6016" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="广东广东地方",广东新闻
+#EXTINF:-1 tvg-id="6016" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="广东地方",广东新闻
 https://php.17186.eu.org/gdtv/web/xwpd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东广东地方",广东民生
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东地方",广东民生
 https://php.17186.eu.org/gdtv/web/gdgg.m3u8
-#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="广东广东地方",广东体育
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="广东地方",广东体育
 https://php.17186.eu.org/gdtv/web/gdty.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东广东地方",大湾区卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东地方",大湾区卫视
 https://php.17186.eu.org/gdtv/web/nfws.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东广东地方",经济科教
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东地方",经济科教
 https://php.17186.eu.org/gdtv/web/jjkj.m3u8
 #EXTINF:-1 tvg-id="7250" tvg-name="广东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVMOV.png" group-title="广东地方",广东影视
 https://php.17186.eu.org/gdtv/web/gdys.m3u8
@@ -403,21 +403,21 @@ https://php.17186.eu.org/gdtv/web/gdgj.m3u8
 https://php.17186.eu.org/gdtv/web/gdse.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="广东地方",嘉佳卡通
 https://php.17186.eu.org/gdtv/web/jjkt.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东广东地方",南方购物
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东地方",南方购物
 https://php.17186.eu.org/gdtv/web/nfgw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东广东地方",岭南戏曲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东地方",岭南戏曲
 https://php.17186.eu.org/gdtv/web/lnxq.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东广东地方",现代教育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东地方",现代教育
 https://php.17186.eu.org/gdtv/web/xdjy.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东广东地方",广东移动
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东地方",广东移动
 https://php.17186.eu.org/gdtv/web/ydpd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东广东地方",荔枝台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东地方",荔枝台
 https://php.17186.eu.org/gdtv/web/lizhi.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东广东地方",纪录片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东地方",纪录片
 https://php.17186.eu.org/gdtv/web/jilupian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东广东地方",GRTN健康频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东地方",GRTN健康频道
 https://php.17186.eu.org/gdtv/web/health.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东广东地方",GRTN文化频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东地方",GRTN文化频道
 https://php.17186.eu.org/gdtv/web/wenhua.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东广东地方",GRTN生活频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东地方",GRTN生活频道
 https://php.17186.eu.org/gdtv/web/life.m3u8
